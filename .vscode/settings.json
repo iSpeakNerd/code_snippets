@@ -1,0 +1,12 @@
+{
+    // "python.defaultInterpreterPath": "/mnt/d/Git Projects/GitHub/code_snippets/Python/Flask_Blog/flaskblog_env/bin/python3",
+    "files.associations": {
+        "*.html": "jinja-html"
+    },
+    "[jinja-html]": {
+        "djlint.enableLinting": true,
+        // "djlint.profile": "html",
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "monosans.djlint"
+    }
+}
